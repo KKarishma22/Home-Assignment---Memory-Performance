@@ -1,6 +1,6 @@
 # Home-Assignment---Memory-Performance
-Name: Christos Dalamarinis
-Completion Date: 28/11/2024
+Name: Christos Dalamarinis \
+Completion Date: 28/11/2024 \
 Link for Data: https://neurosynth.org/analyses/terms/memory%20performance/
 
 ## Description:
@@ -9,8 +9,8 @@ This project visualizes MRI data retrived by the Neurosynth data base, regarding
 
 ## Table of Contents
 | Data Type | Notebook File |
-|-----------|---------------|
-| .nii.gz   | Home Assignment - Memory Performance_code |
+|-----------------|---------------|
+| Anatomical and Functional MRI data  | Home Assignment - Memory Performance_code |
 
 
 ## Python Packages used:
