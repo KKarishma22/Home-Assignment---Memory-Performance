@@ -7,7 +7,7 @@ Link for Data: https://neurosynth.org/analyses/terms/memory%20performance/
 This project visualizes MRI data retrived by the Neurosynth data base, regarding the cognitive concept of Memory Performance. To do so, the pakcges nilearn, nibabel amd matplotlob were used. The code in this repository locates the MRI data at first, then imports the MRI data files using nibabel and creates a MRI figure using the nilearn package, in addition a histogram is provided using the matplotlib package.
 
 
-## Table of Contents
+## Table of Contents:
 | Data Type | Notebook File |
 |-----------------|---------------|
 | Anatomical and Functional MRI data  | Home Assignment - Memory Performance_code |
