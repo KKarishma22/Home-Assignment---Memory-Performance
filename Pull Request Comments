@@ -1,0 +1,10 @@
+// What I like about the code:
+// 1. The code is well-organized and easy to read. Also, cool choice of cognitive concept!
+// 2. The variable names are succint and apt, making the code self-explanatory.
+// 3. The functions/methods helps in breaking down the problem into manageable parts.
+// 4. The documentation is brief and yet sufficiently explains everything.
+// 5. The logic is clear and easy to follow, making it easy to understand the flow of the program.
+
+// Suggestions for improvement:
+// 1. Correct the typo in the variable name fubctional_data to functional_data in line 6 in cell 11. Although this typo doesn't really affect the output since functional_data has already been loaded previously in earlier blocks of code.
+// 2. Maybe give a try at error handling in cases where files might not be found or loaded correctly? This could be a fun challenge :). This could also prevent the program from crashing unexpectedly.
