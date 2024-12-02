@@ -13,7 +13,7 @@ This project visualizes MRI data retrived by the Neurosynth data base, regarding
 | Anatomical and Functional MRI data  | Home Assignment - Memory Performance_code |
 
 
-## Python Packages used:
+## Python Packages Used:
 | Package Name | Version | Description |
 |--------------|---------|-------------|
 | nilearn      | 0.10.4  | Machine learning for NeuroImaging in Python |
